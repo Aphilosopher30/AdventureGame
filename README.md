@@ -6,6 +6,10 @@ This is intended to be a web based version of the Incan Gold Game.
 - Start with single player game
 - make we page that has a button. The button will put up a random number between 1 and 10.
 - add in hazards.
+  - when one hazard is chosen, round ends. all points lost
+  - when two hazards are chosen  round ends. all points lost
+  - make different hazards
+  - the two hazards have to match for round to end.
 - make it act like a deck of cards  
 
 - make one button into two buttons for Stay or Leave  
@@ -17,4 +21,4 @@ This is intended to be a web based version of the Incan Gold Game.
 - We need users, or rather players.
   - Each player needs to be able to enter a Game
   - they need a name
-  - they will need a password i expect. but that's not a priority early on.
+  - they will need a password I expect. But that's not a priority early on.
