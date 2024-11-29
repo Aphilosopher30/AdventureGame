@@ -6,10 +6,10 @@ This is intended to be a web based version of the Incan Gold Game.
 - Start with single player game
 - make we page that has a button. The button will put up a random number between 1 and 10.
   - Save the number to the point counter.
-  - distinguish between potential points and all points earned through all rounds. 
+  - distinguish between potential points and all points earned through all rounds.
 - add in hazards.
-  - when one hazard is chosen, round ends. all points lost
-  - when two hazards are chosen  round ends. all points lost
+  - when one hazard is chosen, round ends. All points lost
+  - when two hazards are chosen,  round ends. All points lost
   - make different hazards
   - the two hazards have to match for round to end.
 - make it act like a deck of cards  
